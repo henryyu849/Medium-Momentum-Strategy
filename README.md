@@ -10,17 +10,6 @@ I will aim to test whether the null hypothesis that the indicator of medium-term
 
 Within this project, I will allow myself to use AI as an assisting tool, where I will use it to help with syntax or presentation/formatting, however I will not use it to generate its own code for complex functions - I have only generated code (which I have cited) in instances where it was out of my knowledge and also was not too relevant to the main code. 
 
-## Key finding
-
-No statistically significant momentum profit at any holding period
-
-   mean_monthly NW_t NW_p  wilcoxon_p  
-K                                                                            
-1   0.0037  0.8452  0.3980      0.3447      
-3   0.0031  0.7727  0.4397      0.3138      
-6   0.0028  0.7171  0.4733      0.2305      
-12  0.0001  0.0194  0.9845      0.4690    
-
 
 ## Project structure
 - `1 - Data_Collection.ipynb`: downloads prices from yfinance (from 2010)
