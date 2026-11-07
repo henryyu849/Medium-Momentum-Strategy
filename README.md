@@ -2,7 +2,7 @@
 
 ## Write-up 
 
-The full report is here: C:\Users\henry\OneDrive\Documents\GitHub\Cyclops\Report\medium_momentum_indicator_write_up.pdf
+The full report is here: Report/medium_momentum_indicator_write_up.pdf
 
 ## Introduction 
 
