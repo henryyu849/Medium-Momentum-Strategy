@@ -2,7 +2,7 @@
 
 ## Write-up 
 
-The full report is here: Report/medium_momentum_indicator_write_up.pdf
+The full report is here: [Report/medium_momentum_indicator_write_up.pdf](https://github.com/henryyu849/Medium-Momentum-Strategy/blob/main/Report/medium_momentum_indicator_write_up.pdf)
 
 ## Introduction 
 
